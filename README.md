@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Robertmcgee1906
+- 👋 Hi, I’m Rob
 - 👀 I’m interested in learning industry best practices
 - 🌱 I’m currently learning GitHub API integration
 - 💞️ I’m looking to collaborate on continuous integration (CI) and continuous deployment (CD) pipelines to automate software development processes
